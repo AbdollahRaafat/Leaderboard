@@ -7,14 +7,14 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #f6f6f6;
+  background-color: blanchedalmond;
 }
 
 header h1 {
   margin: 3.4vw;
   padding: 2.5vw;
   font-size: 80px;
-  font-weight: 800;
+  font-weight: 800;  
 }
 
 main {
@@ -30,11 +30,15 @@ li {
 }
 
 ul {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 ul li:nth-child(even) {
-  background-color: rgb(199, 197, 197);
+  background-color: #CDFFEB;
+}
+
+ul li:nth-child(odd) {
+  background-color:  #EBCDFF;
 }
 
 form {
@@ -55,8 +59,10 @@ button {
   width: min-content;
   margin-left: auto;
   padding: 3px 14px;
-  border-bottom: 4px solid black;
-  border-right: 4px solid black;
+  height: 35px;
+  border-radius:5px ;
+  background-color: #4b49af;
+  color: white;
 }
 
 .table-head {

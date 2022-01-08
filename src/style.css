@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-*{
+* {
   padding: 0;
   margin: 0;
 }
@@ -49,7 +49,8 @@ input[type=number] {
   border: 2px solid black;
 }
 
-input[type=submit], button {
+input[type=submit],
+button {
   width: min-content;
   margin-left: auto;
   padding: 3px 14px;

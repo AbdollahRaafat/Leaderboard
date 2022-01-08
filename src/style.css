@@ -14,7 +14,7 @@ header h1 {
   margin: 3.4vw;
   padding: 2.5vw;
   font-size: 80px;
-  font-weight: 800;  
+  font-weight: 800;
 }
 
 main {
@@ -34,11 +34,11 @@ ul {
 }
 
 ul li:nth-child(even) {
-  background-color: #CDFFEB;
+  background-color: #cdffeb;
 }
 
 ul li:nth-child(odd) {
-  background-color:  #EBCDFF;
+  background-color: #ebcdff;
 }
 
 form {
@@ -60,7 +60,7 @@ button {
   margin-left: auto;
   padding: 3px 14px;
   height: 35px;
-  border-radius:5px ;
+  border-radius: 5px;
   background-color: #4b49af;
   color: white;
 }

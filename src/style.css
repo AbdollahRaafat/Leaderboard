@@ -13,7 +13,8 @@ body {
 header h1 {
   margin: 3.4vw;
   padding: 2.5vw;
-  font-weight: 900;
+  font-size: 80px;
+  font-weight: 800;
 }
 
 main {
